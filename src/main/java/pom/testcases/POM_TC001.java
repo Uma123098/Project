@@ -15,7 +15,7 @@ public class POM_TC001 extends ProjectWrappers{
 		testCaseDescription="IRCTC SignUp";
 		testCaseAuthor="Uma";
 		testCaseCategeory="Functional";
-		dataSheetName="";
+		dataSheetName="Samplelellle";
 	}
 		
 	@Test(dataProvider="fetchData")	
